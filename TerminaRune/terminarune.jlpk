@@ -1,0 +1,7 @@
+{
+	"Title": "Terminarune DR Pack",
+	"Description": "People from the end of the Snowgrave Route were captured, unable to heal fully from it.",
+	"ModPrefix": "TER",
+	"PackArt": "termina.png",
+    "ValidFor": ["LeshyPack"]
+}

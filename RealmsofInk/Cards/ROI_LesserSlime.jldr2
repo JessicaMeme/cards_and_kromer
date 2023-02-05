@@ -1,0 +1,15 @@
+{
+  "name": "ROI_LesserSlime",
+  "modPrefix": "ROI",
+  "displayedName": "Lesser Slime",
+  "description": "Hm, how did this get here?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 4,
+  "abilities": [ "org.memez4life.inscryption.customsigils.Shapeshifter", "extraVoid.inscryption.voidSigils.Boneless" ],
+  "iceCubeName": "ROI_LesserSlimeActive",
+  "texture": "LSlime.png",
+  "emissionTexture": "e_lslime.png"
+}

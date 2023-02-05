@@ -1,0 +1,17 @@
+{
+  "name": "TER_Kris",
+  "modPrefix": "TER",
+  "displayedName": "Term!Kris",
+  "description": "The Paladin, a resilient guardian of the meek, bearing a vicious side...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 8,
+  "bloodCost": 3,
+  "abilities": [ "extraVoid.inscryption.voidSigils.Trample", "extraVoid.inscryption.voidSigils.Protector", "extraVoid.inscryption.voidSigils.Vicious" ],
+  "traits": [ "KillsSurvivors" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Term_Kris.png",
+  "emissionTexture": "e_termkris.png"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ROI_Varik",
+  "modPrefix": "ROI",
+  "displayedName": "Varik",
+  "description": "The Red-Headed Knight, he seems to also use cards to fight his enemies. Yet he fails to defend against me.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 4,
+  "bloodCost": 3,
+  "abilities": [ "DrawCopyOnDeath", "Sharp", "DeathShield" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Varik.png",
+  "emissionTexture": "e_varik.png"
+}

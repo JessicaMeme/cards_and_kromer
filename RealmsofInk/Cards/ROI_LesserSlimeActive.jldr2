@@ -1,0 +1,14 @@
+{
+  "name": "ROI_LesserSlimeActive",
+  "modPrefix": "ROI",
+  "displayedName": "Active Lesser Slime",
+  "description": "Hm, why can I not remember anything about this card?",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 1,
+  "abilities": [ "org.memez4life.inscryption.customsigils.Imbuing", "extraVoid.inscryption.voidSigils.Boneless" ],
+  "texture": "LASlime.png",
+  "emissionTexture": "e_laslime.png"
+}

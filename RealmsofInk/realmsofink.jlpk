@@ -1,0 +1,7 @@
+{
+	"Title": "Realms of Ink Pack",
+	"Description": "Creatures found around the Realms of Ink dark world lurk within this pack.",
+	"ModPrefix": "ROI",
+	"PackArt": "realmsofink.png",
+    "ValidFor": ["LeshyPack"]
+}

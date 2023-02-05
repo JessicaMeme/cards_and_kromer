@@ -1,0 +1,15 @@
+{
+  "name": "ROI_SwipeRat",
+  "modPrefix": "ROI",
+  "displayedName": "Swipe Rat",
+  "description": "The Humble Rat. Frail and Harmless, yet; useful.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "abilities": [ "Tutor", "extraVoid.inscryption.voidSigils.Midas" ],
+  "texture": "SwipeRat.png",
+  "emissionTexture": "e_srat.png"
+}

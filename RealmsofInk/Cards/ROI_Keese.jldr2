@@ -1,0 +1,15 @@
+{
+  "name": "ROI_Keese",
+  "modPrefix": "ROI",
+  "displayedName": "Keese",
+  "description": "The scholar of bats. With psychic powers, it scrambles the minds of opposing creatures.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "abilities": [ "extraVoid.inscryption.voidSigils.Deathburst", "extraVoid.inscryption.voidSigils.Hasteful" ],
+  "texture": "Keese.png",
+  "emissionTexture": "e_keese.png"
+}
