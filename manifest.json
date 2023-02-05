@@ -1,14 +1,14 @@
 {
-    "name": "Cards & Kromer",
+    "name": "CardsAndKromer",
     "version_number": "1.0.0",
     "description": "Cards & Kromer is a Kaycee's Mod Card Extension, including 1 new talking card, 3 new decks,and several new cards!",
     "website_url": "https://github.com/JessicaMeme/cards_and_kromer/",
 	"dependencies": [
-        "BepInEx-BepInExPack_Inscryption-5.4.1902"
-		"API_dev-API-2.10.0"
-		"Infiniscryption-Pack_Management_API-1.0.7"
-		"MADH95Mods-JSONCardLoader-2.3.1"
-		"bitty45-BittysSigils-2.0.0"
+        "BepInEx-BepInExPack_Inscryption-5.4.1902",
+		"API_dev-API-2.10.0",
+		"Infiniscryption-Pack_Management_API-1.0.7",
+		"MADH95Mods-JSONCardLoader-2.3.1",
+		"bitty45-BittysSigils-2.0.0",
 		"AllTheSigils-All_The_Sigils-2.5.6"
     ]
 }
