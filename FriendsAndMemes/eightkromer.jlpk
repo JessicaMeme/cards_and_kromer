@@ -1,0 +1,7 @@
+{
+	"Title": "Friends and Memes Pack",
+	"Description": "This is full of memes and folks from the Eight Kromer Discord Server and C:/User/Jessica!",
+	"ModPrefix": "EKR",
+	"PackArt": "eightkromer.png",
+    "ValidFor": ["LeshyPack"]
+}

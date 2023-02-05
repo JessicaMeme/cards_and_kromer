@@ -1,0 +1,18 @@
+{
+  "name": "EKR_Heckles",
+  "modPrefix": "EKR",
+  "displayedName": "Heckles",
+  "description": "Heckles, the skull, he will leap out of your hand and attack for you.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bonesCost": 4,
+  "abilities": [ "CorpseEater", "GuardDog" ],
+  "specialStatIcon": "Bones",
+  "specialAbilities": [ "Lammergeier", "Lammergeier" ],
+  "traits": [ "Uncuttable" ],
+  "emissionTexture": "e_heckles.png",
+  "texture": "Heckles.png"
+}

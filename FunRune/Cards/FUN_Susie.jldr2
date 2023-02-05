@@ -1,0 +1,17 @@
+{
+  "name": "FUN_Susie",
+  "modPrefix": "FUN",
+  "displayedName": "Zilla",
+  "description": "A Hero of the Light, yet he is a lonely child...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bonesCost": 5,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "StrafePush" ],
+  "evolveIntoName": "FUN_Zilla",
+  "texture": "Zilla.png",
+  "emissionTexture": "e_zilla.png"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "EKR_Crobat",
+  "modPrefix": "EKR",
+  "displayedName": "Crobat",
+  "description": "Ah, the annoying bat, He flies over his enemies, but sleep for a turn.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bonesCost": 2,
+  "tribes": [ "Bird" ],
+  "abilities": [ "Flying", "BuffEnemy", "bitty45.inscryption.challenges_Paralysis", "BuffNeighbours" ],
+  "evolveIntoName": "EKR_Crewmate",
+  "emissionTexture": "e_crobat.png",
+  "texture": "Crobat.png",
+  "pixelTexture": "gbc_crobat.png"
+}

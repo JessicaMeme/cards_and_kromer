@@ -1,0 +1,19 @@
+{
+  "name": "EKR_Morgan_The_Fluffy",
+  "modPrefix": "EKR",
+  "displayedName": "Morgan The Fluffy",
+  "description": "A simple goat, Morgan the Fluffy regenerates their friends' health.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bonesCost": 3,
+  "tribes": [ "Hooved" ],
+  "abilities": [ "TripleBlood", "extraVoid.inscryption.voidSigils.Possessor" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "iceCubeName": "Goat",
+  "texture": "MorganTheFluffy.png",
+  "emissionTexture": "e_fluffy.png",
+  "pixelTexture": "gbc_morgan.png"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "EKR_Chazz",
+  "modPrefix": "EKR",
+  "displayedName": "Chazz",
+  "description": "The disgusting Chazz, he reeks of manure.",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bonesCost": 2,
+  "abilities": [ "Sinkhole", "CorpseEater" ],
+  "traits": [ "KillsSurvivors" ],
+  "emissionTexture": "e_chazz.png",
+  "texture": "chazz.png",
+  "pixelTexture": "gbc_chazz.png"
+}

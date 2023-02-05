@@ -1,0 +1,15 @@
+{
+  "name": "EKR_Awakened_Samson",
+  "modPrefix": "EKR",
+  "displayedName": "Awakened Samson",
+  "description": "The wrathful Samson awakens, he longs for the thrill of battle.",
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "SplitStrike" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "AwakenedSamson.png",
+  "emissionTexture": "e_awakened.png"
+}

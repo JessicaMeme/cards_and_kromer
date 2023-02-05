@@ -1,0 +1,17 @@
+{
+  "name": "FUN_Zilla",
+  "modPrefix": "FUN",
+  "displayedName": "SevenAxe Zilla",
+  "description": "The Dark Knight, a Ruthless Hunter in a pack of Pacifists...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bonesCost": 6,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "SplitStrike", "extraVoid.inscryption.voidSigils.Enforcer" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "SevenZilla.png",
+  "emissionTexture": "e_zilla.png"
+}

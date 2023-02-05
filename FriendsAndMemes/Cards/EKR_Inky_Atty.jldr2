@@ -1,0 +1,14 @@
+{
+  "name": "EKR_Inky_Atty",
+  "modPrefix": "EKR",
+  "displayedName": "The Prophet",
+  "description": "He has arrived.",
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 2,
+  "abilities": [ "extraVoid.inscryption.voidSigils.Sluggish","Sentry" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Inky_Atty.png",
+  "emissionTexture": "e_ink.png"
+}

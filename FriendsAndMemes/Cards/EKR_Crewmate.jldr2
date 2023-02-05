@@ -1,0 +1,14 @@
+{
+  "name": "EKR_Crewmate",
+  "modPrefix": "EKR",
+  "displayedName": "Amogus",
+  "description": "What.",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "abilities": [ "Sinkhole", "DrawCopyOnDeath", "extraVoid.inscryption.voidSigils.Blight" ],
+  "traits": [ "KillsSurvivors" ],
+  "emissionTexture": "e_crew.png",
+  "texture": "Crewmate.png"
+}

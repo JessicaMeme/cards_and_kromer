@@ -1,0 +1,7 @@
+{
+	"Title": "FunRune DR Pack",
+	"Description": "A collection of characters from the Deltarune AU known as FunRune.",
+	"ModPrefix": "FUN",
+	"PackArt": "funrune.png",
+    "ValidFor": ["LeshyPack"]
+}

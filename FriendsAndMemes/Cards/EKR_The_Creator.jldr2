@@ -1,0 +1,19 @@
+{
+  "name": "EKR_The_Creator",
+  "modPrefix": "EKR",
+  "displayedName": "Jessica The Creator",
+  "description": "A goddess from another universe, her powers are peculiar and unpredictable.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "tribes": [ "Canine" ],
+  "abilities": [ "RandomAbility" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "traits": [ "KillsSurvivors" ],
+  "emissionTexture": "e_jessica.png",
+  "texture": "JessicaTheDead.png",
+  "pixelTexture": "gbc_jess.png"
+}

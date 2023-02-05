@@ -1,0 +1,15 @@
+{
+  "name": "EKR_BigMoney",
+  "modPrefix": "EKR",
+  "displayedName": "Mr. Big Money",
+  "description": "Ah, Mr. Big Money, he has paid me a fine number of teeth to stay quiet.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "extensionProperties": { "MoneyCost": "3" },
+  "abilities": [ "extraVoid.inscryption.voidSigils.Midas" ],
+  "texture": "BigMoney.png",
+  "emissionTexture": "e_big.png"
+}

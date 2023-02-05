@@ -1,0 +1,17 @@
+{
+  "name": "EKR_Freddy_fazbear",
+  "modPrefix": "EKR",
+  "displayedName": "Freddy fazbear",
+  "description": "Oh no.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 4,
+  "bloodCost": 3,
+  "abilities": [ "extraVoid.inscryption.voidSigils.Electric", "PermaDeath" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "traits": [ "Bear", "KillsSurvivors" ],
+  "texture": "Freddy_Fazbear.png",
+  "emissionTexture": "e_fazbear.png"
+}

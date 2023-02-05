@@ -1,0 +1,17 @@
+{
+  "name": "EKR_Atticass",
+  "modPrefix": "EKR",
+  "displayedName": "Atty Lawrence",
+  "description": "Atty Lawrence, an agitated yet noble creature. Yet something is stirring within him...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Advanced",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "abilities": [ "Evolve" ],
+  "evolveIntoName": "EKR_Inky_Atty",
+  "evolveTurns": 2,
+  "texture": "Atticass.png",
+  "emissionTexture": "e_atty.png"
+}

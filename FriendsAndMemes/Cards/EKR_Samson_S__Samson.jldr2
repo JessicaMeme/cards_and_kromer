@@ -1,0 +1,20 @@
+{
+  "name": "EKR_Samson_S__Samson",
+  "modPrefix": "EKR",
+  "displayedName": "Samson S. Samson",
+  "description": "A tired lizard, he kills his foes quickly.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Evolve", "Deathtouch" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "evolveIntoName": "EKR_Awakened_Samson",
+  "evolveTurns": 1,
+  "emissionTexture": "e_samson.png",
+  "texture": "SamsonSSamson.png",
+  "pixelTexture": "gbc_sam.png"
+}

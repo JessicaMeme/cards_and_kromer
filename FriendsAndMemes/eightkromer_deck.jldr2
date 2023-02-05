@@ -1,0 +1,19 @@
+{
+    "decks": [
+        {
+            "name": "8 Kromer Bonanza",
+            "iconTexture": "kromer_deck_icon.png",
+            "cards": [ "EKR_Samson_S__Samson", "EKR_Morgan_The_Fluffy", "EKR_Crobat" ]
+        },
+        {
+            "name": "User/Jessica Roots",
+            "iconTexture": "user_jessica_deck_icon.png",
+            "cards": [ "EKR_The_Creator", "EKR_Chazz", "EKR_Yokai" ]
+        },
+		{
+            "name": "PathOwOGen",
+            "iconTexture": "furry_deck_icon.png",
+            "cards": [ "EKR_Morgan_The_Fluffy", "EKR_The_Creator", "EKR_Mako" ]
+        }
+    ]
+}

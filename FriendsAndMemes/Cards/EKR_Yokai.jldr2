@@ -1,0 +1,16 @@
+{
+  "name": "EKR_Yokai",
+  "modPrefix": "EKR",
+  "displayedName": "Yokai",
+  "description": "The sassy Yokai, tankier than most, just unable to express her anger in violence.",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 6,
+  "bloodCost": 1,
+  "abilities": [ "Reach" ],
+  "traits": [ "KillsSurvivors" ],
+  "emissionTexture": "yokai.png",
+  "texture": "Yokai.png",
+  "pixelTexture": "gbc_yokai.png"
+}

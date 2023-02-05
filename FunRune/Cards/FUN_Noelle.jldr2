@@ -1,0 +1,18 @@
+{
+  "name": "FUN_Noelle",
+  "modPrefix": "FUN",
+  "displayedName": "Jingles",
+  "description": "The snowcaster. Fragile, but her grasp on magic grows by the day...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": "Hooved",
+  "specialAbilities": [ "Ouroboros" ],
+  "abilities": [ "org.memez4life.inscryption.customsigils.Charge", "extraVoid.inscryption.voidSigils.Retaliate", "GainAttackOnKill" ],  
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Jingles.png",
+  "emissionTexture": "e_jingles.png"
+}

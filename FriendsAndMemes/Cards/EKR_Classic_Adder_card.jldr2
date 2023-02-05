@@ -1,0 +1,18 @@
+{
+  "name": "EKR_Classic_Adder",
+  "modPrefix": "EKR",
+  "displayedName": "Classic Adder",
+  "description": "Ah, the Classic Adder! Truly a timeless creature!",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 6,
+  "bloodCost": 2,
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Deathtouch", "StrafePush" ],
+  "traits": [ "KillsSurvivors" ],
+  "texture": "ClassicAdder.png",
+  "emissionTexture": "e_classic.png"
+
+}

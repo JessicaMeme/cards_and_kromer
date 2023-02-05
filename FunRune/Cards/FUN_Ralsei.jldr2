@@ -1,0 +1,17 @@
+{
+  "name": "FUN_Ralsei",
+  "modPrefix": "FUN",
+  "displayedName": "Fluffsei",
+  "description": "The fluffy prince. Always dutifully providing for others...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 3,
+  "bloodCost": 1,
+  "tribes": "Hooved",
+  "abilities": [ "Sacrificial", "BuffNeighbours", "extraVoid.inscryption.voidSigils.Medic" ],  
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Fluffsei.png",
+  "emissionTexture": "e_fluff.png"
+}
