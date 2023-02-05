@@ -1,4 +1,4 @@
-# cards_and_kromer
+# Cards and Kromer
 Cards and Kromer is a Card Expansion to Inscryption, mainly for Kaycee's Mod!
 This will include 1 talking card, 3 new decks to use, and 27 new cards; with more on the way!
 
